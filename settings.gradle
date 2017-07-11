@@ -1,3 +1,4 @@
 rootProject.name = 'reimagined-telegram'
 include 'server'
+include 'client'
 
